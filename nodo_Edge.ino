@@ -14,7 +14,7 @@
 #define INFLUXDB_URL    "https://eu-central-1-1.aws.cloud2.influxdata.com"
 #define INFLUXDB_ORG    "IoT"
 #define INFLUXDB_BUCKET "Data"
-#define INFLUXDB_TOKEN  "vDLGoulGIJjATb7ApU7-aEqf5DmL8rp0H0pEsI8WLT_fF87izC_nzzcLAFEkCxW9dbD6m_dWSh-hb_DiMgmVCA=="
+#define INFLUXDB_TOKEN  "#"
 
 #define BUFFER_SIZE 4
 float tempBuffer[BUFFER_SIZE];
